@@ -1,0 +1,21 @@
+[
+  {"question": "Se você aponta para algo na sala, seu filho olha para lá? (POR EXEMPLO, se você apontar para um brinquedo ou animal, seu filho olha para o brinquedo ou animal?)"},
+  {"question": "Seu filho já brincou de faz-de-conta (Por exemplo, ele finge beber de um copo vazio; ele imita falar ao telefone; ele dá uma boneca ou um bichinho de pelúcia para um animal?)"},
+  {"question": "Seu filho gosta de escalar coisas? (EXEMPLO de móveis, equipamentos de playground ou escadas)"},
+  {"question": "Seu filho faz movimentos incomuns dos dedos ao redor dos olhos? (EXEMPLO Seu filho aproxima os dedos dos olhos?)"},
+  {"question": "Seu filho aponta com um dedo, pedindo algo ou pedindo ajuda? (EXEMPLO apontando para algo para comer ou um brinquedo que não pode ser alcançado.)" },
+  {"question": "Seu filho aponta com um dedo para mostrar algo interessante? (EXEMPLO apontando para um avião voando no céu ou um caminhão grande se movendo na estrada.)" },
+  {"question": "Seu filho está interessado em outras crianças? (POR EXEMPLO, seu filho observa outras crianças, sorri para elas, vai até elas?)" },
+  {"question": "Seu filho mostra objetos carregando-os ou segurando-os para você ver - não para obter ajuda, mas apenas para compartilhar com você? (EXEMPLO se mostra uma flor, um bichinho de pelúcia ou um caminhão de brinquedo.)" },
+  {"question": "Seu filho reage quando você o chama pelo nome? (EXEMPLO, por exemplo, ele olha para trás, responde com fala ou tagarelice, ele para de fazer o que faz quando você o chama pelo nome?)" },
+  {"question": "Quando você sorri para seu filho - ele responde com um sorriso?" },
+  {"question": "Seu filho se incomoda com barulhos no dia a dia? (POR EXEMPLO, seu filho grita ou chora ao som de um aspirador de pó ou música muito alta?)" },
+  {"question": "Seu filho consegue andar sozinho?" },
+  {"question": "Seu filho te olha nos olhos enquanto você fala com ele, enquanto você brinca junto, enquanto você o veste?" },
+  {"question": "Seu filho está tentando imitar seus movimentos? (EXEMPLO dando adeus, batendo palmas ou fazendo barulhos engraçados que você faz.)" },
+  {"question": "Se você virar a cabeça para olhar para algo específico, seu filho olha em volta para entender o que você está vendo?" },
+  {"question": "Seu filho está tentando chamar sua atenção? (Por exemplo, seu filho olha para você na expectativa de elogiá-lo ou ele diz \"olhe\" ou \"olhe para mim\"?)" },
+  {"question": "Seu filho entende você quando você diz para ele fazer alguma coisa? (EXEMPLO sem especificar que seu filho entende a instrução \"coloque o livro na cadeira\" ou \"traga-me o cobertor\"?)" },
+  {"question": "Se algo novo acontece, seu filho olha para o seu rosto para ver sua reação? (EXEMPLO Ele/ela olha para o seu rosto se ouve um barulho estranho ou engraçado ou vê um brinquedo novo?)" },
+  {"question": "Seu filho gosta de atividades de movimento? (EXEMPLO balançando-o ou sacudindo-o de joelhos?)" }
+]
